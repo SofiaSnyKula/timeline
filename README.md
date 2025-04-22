@@ -17,5 +17,4 @@ Technologies Used:
 Project Outcome: The "Animated Timeline" successfully combines technical proficiency with creative presentation, providing a user-friendly interface for exploring personal milestones. 
 It meets project requirements by integrating interactive elements such as modal windows and a responsive design, ensuring accessibility across devices. 
 The project not only demonstrates skills in web development but also highlights effective use of jQuery for dynamic content presentation.
-![image](https://github.com/user-attachments/assets/8a771272-366d-4754-8861-ffbe6020fe09)
-![image](https://github.com/user-attachments/assets/a4e5f059-63cf-43e5-9de9-2fb2534d9118)
+
