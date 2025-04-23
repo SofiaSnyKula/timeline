@@ -18,3 +18,8 @@ Project Outcome: The "Animated Timeline" successfully combines technical profici
 It meets project requirements by integrating interactive elements such as modal windows and a responsive design, ensuring accessibility across devices. 
 The project not only demonstrates skills in web development but also highlights effective use of jQuery for dynamic content presentation.
 
+
+
+
+https://github.com/user-attachments/assets/700b6a49-e5b6-4c44-b52f-807a5caaf14a
+
